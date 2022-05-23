@@ -1,6 +1,6 @@
 {
   "name": "zonzobulo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cartão de visitas",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,8 @@
   ],
   "author": "Matheus Paulino",
   "license": "ISC",
+  "bin": "./bin.js",
   "dependencies": {
-    "chalk": "^5.0.1"
+    "chalk": "^4.1.2"
   }
 }
