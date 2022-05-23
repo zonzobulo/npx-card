@@ -1,0 +1,22 @@
+{
+  "name": "zonzobulo",
+  "version": "1.0.0",
+  "description": "cartão de visitas",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zonzobulo"
+  },
+  "keywords": [
+    "business",
+    "card"
+  ],
+  "author": "Matheus Paulino",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
