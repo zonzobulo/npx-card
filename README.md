@@ -1,6 +1,6 @@
 # npx-card
 
-type in terminal:
+type in terminal
 ``` 
 npx zonzobulo
 ```
